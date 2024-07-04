@@ -1,0 +1,16 @@
+{
+    "name": "alkono/bolg-php-poo-init",
+    "autoload": {
+        "psr-4": {
+            
+            "libraries\\":"libraries/"
+        }
+    },
+    "authors": [
+        {
+            "name": "expedit"
+        }
+    ],
+    "require": {}
+}
+ 
